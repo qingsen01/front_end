@@ -1,0 +1,113 @@
+[
+    {
+        "bookid": "0011",
+        "name": "Astro Boy Omnibus Volume 7",
+        "author": "Osamu Tezuka",
+        "price": 4.5,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Astro%20Boy%20Omnibus%20Volume%207/Astro%20Boy%20Omnibus%20Volume%207.jpg?raw=true"
+        ],
+        "description": "More than sixty years after his birth, Astro Boy is still the robot hero by which all others are measured! In this final volume of Astro's atomic-powered adventures, Astro must save a human time machine, commands a mission to Mars, and battles a rampaging robot Frankenstein!",
+        "quantity": 5
+    },
+    {
+        "bookid": "0012",
+        "name": "Dragon Ball Super, Vol. 16 (Volume 16)",
+        "author": "Akira Toriyama ",
+        "price": 3.0,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Dragon%20Ball%20Super,%20Vol.%2019%20Paperback/Dragon%20Ball%20Super,%20Vol.%2016%20Paperback.jpg?raw=true"
+        ],
+        "description": "Goku's adventure from the best-selling classic manga Dragon Ball continues in this new series written by Akira Toriyama himself! Ever since Goku became Earth's greatest hero and gathered the seven Dragon Balls to defeat the evil Boo, his life on Earth has grown a little dull. But new threats loom overhead, and Goku and his friends will have to defend the planet once again in this continuation of Akira Toriyama's best-selling series, Dragon Ball! Granolah is the last of the Cerealians, a people who were all but wiped out by the Saiyans and Freeza's army many years ago. When he learns that the long-lost twin to the Dragon Ball that the old Namekian Monaito keeps in their home has been found, Granolah steals it and makes a wish that will allow him to start his quest for revenge against the Saiyans—to become the strongest being in the whole universe! Meanwhile, the Heeters work behind the scenes to put Granolah out of his misery once and for all…by enlisting Goku and Vegeta’s help!",
+        "quantity": 6
+    },
+    {
+        "bookid": "0013",
+        "name": "Fire Force Omnibus 6 (Vol. 16-18)",
+        "author": "Atsushi Ohkubo",
+        "price": 3.5,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Fire%20Force%20Omnibus%206/Fire%20Force%20Omnibus%206.jpg?raw=true"
+        ],
+        "description": "Dive feet-first into the world of devil-fighting firefighters with this 3-in-1 omnibus edition of the hit manga from the creator of Soul Eater! Blaze past the anime, 600 large-sized pages at a time.",
+        "quantity": 10
+    },
+    {
+        "bookid": "0014",
+        "name": "Hell's Paradise: Jigokuraku, Vol. 1",
+        "author": "Yuji Kaku",
+        "price": 4.0,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Hell's%20Paradise%20Jigokuraku/Hell's%20Paradise%20Jigokuraku.jpg?raw=true"
+        ],
+        "description": "Gabimaru the Hollow is one of the most vicious ninja assassins ever to come out of the village of Iwagakure. He’s ruthlessly efficient, but a betrayal results in him being handed a death sentence. There is only one hope: travel to a long-hidden island and recover an elixir that will make the shogun immortal and he will regain his freedom. Failure is not an option―on this island, Heaven and Hell are a hair’s breadth away.",
+        "quantity": 2
+    },
+    {
+        "bookid": "0015",
+        "name": "JoJo's Bizarre Adventure: Part 6--Stone Ocean, Vol. 2",
+        "author": "Hirohiko Araki",
+        "price": 5.0,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/JoJo's%20Biazarre%20Adventure/JoJo's%20Bizarre%20Adventure.jpg?raw=true"
+        ],
+        "description": "A multigenerational tale of the heroic Joestar family and their never-ending battle against evil! The legendary Shonen Jump series is now available in deluxe hardcover editions featuring color pages! JoJo’s Bizarre Adventure is a groundbreaking manga famous for its outlandish characters, wild humor and frenetic battles. Jotaro arrives to break Jolyne out of jail, but they fall right into the enemy’s trap, leaving father and daughter to fight for their lives inside a dream while their real bodies are being dissolved. Then, their unknown enemy steals Jotaro’s Stand and memories, effectively putting him in a state that might as well be death. But there’s hope! Ermes discovers that someone is storing memories and Stands in discs, and she and Jolyne volunteer for a search-and-rescue mission to find her father’s discs!",
+        "quantity": 7
+    },
+    {
+        "bookid": "0016",
+        "name": "Jujutsu Kaisen, Vol. 19 (Volume 19)",
+        "author": "Gege Akutami",
+        "price": 6.0,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Jujutsu%20Kaisen/Jujutsu%20Kaisen1.jpg?raw=true",
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Jujutsu%20Kaisen/Jujutsu%20Kaisen2.jpg?raw=true"
+        ],
+        "description": "To gain the power he needs to save his friend from a cursed spirit, Yuji Itadori swallows a piece of a demon, only to find himself caught in the midst of a horrific war of the supernatural! In a world where cursed spirits feed on unsuspecting humans, fragments of the legendary and feared demon Ryomen Sukuna have been lost and scattered about. Should any demon consume Sukuna’s body parts, the power they gain could destroy the world as we know it. Fortunately, there exists a mysterious school of jujutsu sorcerers who exist to protect the precarious existence of the living from the supernatural! In order to add a rule that will serve as a loophole in the Culling Game, Itadori and Fushiguro set their sights on a player named Hiromi Higuruma, who has 100 points. But when they enter Tokyo Colony No. 1, the two get separated. They both find others willing to help them, however…",
+        "quantity": 10
+    },
+    {
+        "bookid": "0017",
+        "name": "Naruto (3-in-1 Edition), Vol. 3: Includes vols. 7, 8 & 9 (Volume 3)",
+        "author": "Masashi Kishimoto",
+        "price": 4.5,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Naruto%20(3-in-1%20Edition)/Naruto%20(3-in-1%20Edition).jpg?raw=true"
+        ],
+        "description": "The epic ninja adventure that became a global phenomenon! Naruto is a young shinobi with an incorrigible knack for mischief. He’s got a wild sense of humor, but Naruto is completely serious about his mission to be the world’s greatest ninja! Containing volumes 7, 8, and 9 of Naruto! Naruto’s world begins to change forever when his teammate Sasuke is infected by the sinister mark of Orochimaru, the rogue ninja. But there’s no time for dwelling on what may someday come to pass as the Chunin Exams kick into high gear. Does Naruto have what it takes to become a journeyman ninja? And if not, can he really ever expect to save his friends or protect his village? This could be his last chance to find out!",
+        "quantity": 4
+    },
+    {
+        "bookid": "0018",
+        "name": "Night Fever",
+        "author": "Ed Brubaker",
+        "price": 5.5,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Night%20Fever/Night%20Fever.jpg?raw=true"
+        ],
+        "description": "An amazing new original graphic novel from the bestselling creators of PULP, RECKLESS, CRIMINAL, and KILL OR BE KILLED. Who are you, really? Are you the things you do, or are you the person inside your mind? In Europe on a business trip, Jonathan Webb can't sleep. Instead, he finds himself wandering the night in a strange foreign city, with his new friend, the mysterious and violent Rainer as his guide. Rainer shows Jonathan the hidden world of the night, a world without rules or limits. But when the fun turns dangerous, Jonathan may find himself trapped in the dark... And the question is, what will he do to get home? NIGHT FEVER is a pulse-pounding noir thriller from grand masters Ed Brubaker and Sean Phillips. A Jekyll-and-Hyde story of a man facing the darkness inside himself, this riveting tour of the night is a must-have for all Brubaker and Phillips readers!",
+        "quantity": 1
+    },
+    {
+        "bookid": "0019",
+        "name": "Splatoon, Vol. 16: Volume 16",
+        "author": "Sankichi Hinodeya",
+        "price": 4.5,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Splatoon/Splatoon.jpg?raw=true"
+        ],
+        "description": "All-new adventures featuring the beloved characters from the hit Nintendo video games! Four Inklings get caught up in the Splatoon Turf Wars! The Battle Stamp Rally begins! It combines all the hardest pieces of the Turf War, the Ranked Battle, and the Salmon Run stages! How will Goggles and his friends do in this inkredible new challenge?!",
+        "quantity": 5
+    },
+    {
+        "bookid": "0020",
+        "name": " Spy x Family, Vol. 2 (Volume 2)",
+        "author": "Tatsuya Endo",
+        "price": 3.5,
+        "imgpath": [
+            "https://github.com/qingsen01/front_end/blob/main/Book/Comics/Spy%20x%20Family/Spy%20x%20Family.jpg?raw=true"
+        ],
+        "description": "An action-packed comedy about a fake family that includes a spy, an assassin and a telepath! Master spy Twilight is unparalleled when it comes to going undercover on dangerous missions for the betterment of the world. But when he receives the ultimate assignment—to get married and have a kid—he may finally be in over his head! Twilight must infiltrate the prestigious Eden Academy to get close to his target Donovan Desmond, but has he ruined his daughter Anya’s chances with his outburst during the admissions interview? Perhaps the truly impossible mission this time is making sure Anya both becomes an exemplary student and befriends Donovan’s arrogant son Damian!",
+        "quantity": 3
+    }
+]
